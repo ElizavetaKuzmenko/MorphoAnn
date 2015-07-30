@@ -1,0 +1,86 @@
+T1	VB 12 18	prefer
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB VBP
+T2	JJ 67 73	future
+A2	Possible_error T2
+#2	AnnotatorNotes T2	JJ NN
+T3	RB 127 131	away
+A3	Possible_error T3
+#3	AnnotatorNotes T3	RB RP
+T4	VB 137 148	venturingin
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VB NN VBP JJ
+T5	VBZ 266 270	aims
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBZ NNS
+T6	VBZ 283 289	wishes
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VBZ NNS
+T7	VBD 495 499	lost
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VBD VBN
+T8	JJ 529 534	other
+A8	Possible_error T8
+#8	AnnotatorNotes T8	JJ NN
+T9	VBG 549 555	living
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBG NN
+T10	VBG 571 580	andboring
+T11	VB 605 608	get
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VB VBP
+T12	NN 614 617	one
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NN DT Z
+T13	IN 651 655	that
+A13	Possible_error T13
+#13	AnnotatorNotes T13	IN WDT DT RB PRP WP
+T14	NN 659 662	why
+A14	Possible_error T14
+#14	AnnotatorNotes T14	NN WRB
+T15	NN 682 692	experience
+A15	Possible_error T15
+#15	AnnotatorNotes T15	NN VB VBP
+T16	IN 693 695	as
+A16	Possible_error T16
+#16	AnnotatorNotes T16	IN RB
+T17	VB 847 851	take
+A17	Possible_error T17
+#17	AnnotatorNotes T17	VB VBP NN
+T18	JJR 858 865	aremore
+T19	VB 892 900	overwork
+A19	Possible_error T19
+#19	AnnotatorNotes T19	VB VBP
+T20	VB 998 1007	toachieve
+T21	RB 1145 1155	areusually
+T22	VBD 1177 1188	experienced
+A22	Possible_error T22
+#22	AnnotatorNotes T22	VBD VBN
+T23	DT 1191 1194	All
+A23	Possible_error T23
+#23	AnnotatorNotes T23	DT PDT RB PRP
+T24	VBD 1242 1252	attributed
+A24	Possible_error T24
+#24	AnnotatorNotes T24	VBD VBN
+T25	VBP 1312 1319	believe
+A25	Possible_error T25
+#25	AnnotatorNotes T25	VBP VB
+T26	IN 1320 1324	that
+A26	Possible_error T26
+#26	AnnotatorNotes T26	IN WDT DT RB PRP WP
+T27	IN 1387 1391	like
+A27	Possible_error T27
+#27	AnnotatorNotes T27	IN VB VBP
+T28	VBP 1395 1400	argue
+A28	Possible_error T28
+#28	AnnotatorNotes T28	VBP VB
+A4	Spelling_error T4
+#4	AnnotatorNotes T4	venturing in
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	and boring
+A18	Spelling_error T18
+#18	AnnotatorNotes T18	are more
+A20	Spelling_error T20
+#20	AnnotatorNotes T20	to achieve
+A21	Spelling_error T21
+#21	AnnotatorNotes T21	are usually

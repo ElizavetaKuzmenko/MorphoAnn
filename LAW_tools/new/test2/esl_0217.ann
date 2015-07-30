@@ -1,0 +1,50 @@
+T1	VB 13 24	demonstrate
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB VBP
+T2	VB 64 71	produce
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VB VBP NN
+T3	NN 135 148	wastedisposal
+T4	POS 194 196	's
+A4	Possible_error T4
+#4	AnnotatorNotes T4	POS VBZ VBZ
+T5	RB 272 290	investmentdirectly
+T6	VBN 322 330	produced
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VBN VBD
+T7	JJ 343 350	graphic
+A7	Possible_error T7
+#7	AnnotatorNotes T7	JJ NN
+T8	VBN 420 435	programattained
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VBN VBD JJ
+T9	VBG 568 579	thelowering
+T10	NN 706 719	wastedisposal
+T11	NN 851 864	theinvestment
+T12	VBN 865 872	reached
+A12	Possible_error T12
+#12	AnnotatorNotes T12	VBN VBD
+T13	VBP 960 970	illustrate
+A13	Possible_error T13
+#13	AnnotatorNotes T13	VBP VB
+T14	NN 975 989	successfulness
+T15	NN 993 1001	thewaste
+T16	RB 1128 1140	risesthrough
+A3	Spelling_error T3
+#3	AnnotatorNotes T3	waste disposal
+A5	Spelling_error T5
+#5	AnnotatorNotes T5	investment directly
+A8	Spelling_error T8
+#8	AnnotatorNotes T8	program attained
+A9	Spelling_error T9
+#9	AnnotatorNotes T9	the lowering
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	waste disposal
+A11	Spelling_error T11
+#11	AnnotatorNotes T11	the investment
+A14	Spelling_error T14
+#14	AnnotatorNotes T14	successful
+A15	Spelling_error T15
+#15	AnnotatorNotes T15	the waste
+A16	Spelling_error T16
+#16	AnnotatorNotes T16	rises through

@@ -1,0 +1,44 @@
+T1	VB 11 18	provide
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB VBP
+T2	NN 142 154	ofdiscontent
+T3	VBD 155 161	caused
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBD VBN
+T4	VBD 244 252	examined
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBD VBN
+T5	JJ 266 272	2000th
+T6	RB 283 291	anupward
+A6	Possible_error T6
+#6	AnnotatorNotes T6	RB JJ
+T7	NP 424 431	Inspite
+T8	JJ 631 637	steady
+A8	Possible_error T8
+#8	AnnotatorNotes T8	JJ VB VBP
+T9	VBN 756 763	reached
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBN VBD
+T10	VBD 785 793	examined
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VBD VBN
+T11	VBN 821 831	fluctuated
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VBN VBD
+T12	VB 890 894	fall
+A12	Possible_error T12
+#12	AnnotatorNotes T12	VB NN VBP
+T13	VBN 910 919	decreased
+A13	Possible_error T13
+#13	AnnotatorNotes T13	VBN VBD
+T14	VBN 951 958	reached
+A14	Possible_error T14
+#14	AnnotatorNotes T14	VBN VBD
+A2	Spelling_error T2
+#2	AnnotatorNotes T2	of discontent
+A5	Spelling_error T5
+#5	AnnotatorNotes T5	Th
+A6	Spelling_error T6
+#6	AnnotatorNotes T6	an upward
+A7	Spelling_error T7
+#7	AnnotatorNotes T7	In spite

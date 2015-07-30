@@ -1,0 +1,63 @@
+T1	NP 137 146	Thelowest
+T2	JJ 284 289	ofthe
+A2	Possible_error T2
+#2	AnnotatorNotes T2	JJ VBP NN VB VBD RB JJR NNS VBN VBZ VBG JJS
+T3	VBN 335 342	reached
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBN VBD
+T4	NN 428 436	nextyear
+T5	VBP 639 649	shouldvary
+T6	VBD 761 769	observed
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VBD VBN
+T7	RB 787 795	likethat
+T8	NN 918 922	euro
+A8	Possible_error T8
+#8	AnnotatorNotes T8	NN NNS
+T9	VBG 930 943	millionduring
+T10	VBD 976 981	noted
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VBD VBN
+T11	RB 1220 1240	increasedpermanently
+T12	DT 1378 1381	all
+A12	Possible_error T12
+#12	AnnotatorNotes T12	DT PDT RB PRP
+T13	VBN 1438 1451	werediscussed
+A13	Possible_error T13
+#13	AnnotatorNotes T13	VBN VBD
+T14	VBD 1796 1803	dropped
+A14	Possible_error T14
+#14	AnnotatorNotes T14	VBD VBN
+T15	VBZ 1874 1881	ratehas
+T16	VB 1924 1935	demonstrate
+A16	Possible_error T16
+#16	AnnotatorNotes T16	VB VBP
+T17	IN 1978 1982	that
+A17	Possible_error T17
+#17	AnnotatorNotes T17	IN WDT DT RB PRP WP
+T18	JJ 2046 2057	thecontrary
+A18	Possible_error T18
+#18	AnnotatorNotes T18	JJ NN
+T19	VBD 2151 2159	observed
+A19	Possible_error T19
+#19	AnnotatorNotes T19	VBD VBN
+A1	Spelling_error T1
+#1	AnnotatorNotes T1	The lowest
+A2	Spelling_error T2
+#2	AnnotatorNotes T2	of the
+A4	Spelling_error T4
+#4	AnnotatorNotes T4	next year
+A5	Spelling_error T5
+#5	AnnotatorNotes T5	should vary
+A7	Spelling_error T7
+#7	AnnotatorNotes T7	like that
+A9	Spelling_error T9
+#9	AnnotatorNotes T9	million during
+A11	Spelling_error T11
+#11	AnnotatorNotes T11	increased permanently
+A13	Spelling_error T13
+#13	AnnotatorNotes T13	were discussed
+A15	Spelling_error T15
+#15	AnnotatorNotes T15	rate has
+A18	Spelling_error T18
+#18	AnnotatorNotes T18	the contrary

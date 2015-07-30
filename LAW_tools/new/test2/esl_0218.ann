@@ -1,0 +1,84 @@
+T1	VB 27 33	become
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB VBN VBP
+T2	VB 69 72	try
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VB VBP NN
+T3	NN 76 80	show
+A3	Possible_error T3
+#3	AnnotatorNotes T3	NN VB VBP
+T4	VBZ 98 105	matches
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBZ NNS
+T5	JJ 151 159	possible
+A5	Possible_error T5
+#5	AnnotatorNotes T5	JJ NN
+T6	VBN 165 173	involved
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VBN VBD VB
+T7	RB 370 374	much
+A7	Possible_error T7
+#7	AnnotatorNotes T7	RB JJ
+T8	NN 450 455	where
+A8	Possible_error T8
+#8	AnnotatorNotes T8	NN WRB
+T9	VB 485 492	suppose
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VB VBP
+T10	NN 519 522	why
+A10	Possible_error T10
+#10	AnnotatorNotes T10	NN WRB
+T11	RB 585 589	much
+A11	Possible_error T11
+#11	AnnotatorNotes T11	RB JJ
+T12	VB 608 611	pay
+A12	Possible_error T12
+#12	AnnotatorNotes T12	VB NN VBP
+T13	VB 652 656	play
+A13	Possible_error T13
+#13	AnnotatorNotes T13	VB NN VBP
+T14	NN 728 733	count
+A14	Possible_error T14
+#14	AnnotatorNotes T14	NN VB VBP
+T15	IN 843 847	that
+A15	Possible_error T15
+#15	AnnotatorNotes T15	IN WDT DT RB PRP WP
+T16	NN 865 869	deal
+A16	Possible_error T16
+#16	AnnotatorNotes T16	NN VB VBP
+T17	NN 993 997	show
+A17	Possible_error T17
+#17	AnnotatorNotes T17	NN VB VBP
+T18	VB 1047 1052	watch
+A18	Possible_error T18
+#18	AnnotatorNotes T18	VB NN VBP
+T19	VB 1070 1077	suppose
+A19	Possible_error T19
+#19	AnnotatorNotes T19	VB VBP
+T20	VB 1094 1098	help
+A20	Possible_error T20
+#20	AnnotatorNotes T20	VB NN VBP NNS
+T21	NN 1173 1178	where
+A21	Possible_error T21
+#21	AnnotatorNotes T21	NN WRB
+T22	NN 1215 1219	hope
+A22	Possible_error T22
+#22	AnnotatorNotes T22	NN VBP VB
+T23	IN 1220 1224	that
+A23	Possible_error T23
+#23	AnnotatorNotes T23	IN WDT DT RB PRP WP
+T24	NN 1245 1251	change
+A24	Possible_error T24
+#24	AnnotatorNotes T24	NN VB VBP
+T25	VB 1267 1271	live
+A25	Possible_error T25
+#25	AnnotatorNotes T25	VB VBP JJ
+T26	WP 1358 1363	whose
+A26	Possible_error T26
+#26	AnnotatorNotes T26	WP WP$
+T27	NN 1391 1395	hope
+A27	Possible_error T27
+#27	AnnotatorNotes T27	NN VBP VB
+T28	JJ 1469 1475	future
+A28	Possible_error T28
+#28	AnnotatorNotes T28	JJ NN

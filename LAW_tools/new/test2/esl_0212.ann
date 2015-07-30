@@ -1,0 +1,69 @@
+T1	DT 3 6	all
+A1	Possible_error T1
+#1	AnnotatorNotes T1	DT PDT RB PRP
+T2	VB 7 11	know
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VB VBP
+T3	VBP 70 76	wonder
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBP VB NN
+T4	VB 161 167	differ
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VB VBP
+T5	JJ 233 244	dream-house
+A5	Possible_error T5
+#5	AnnotatorNotes T5	JJ NN RB
+T6	JJ 282 295	moreimportant
+T7	VBP 587 591	have
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VBP VB JJ
+T8	NN 592 603	enoughmoney
+T9	VBP 679 683	have
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBP VB JJ
+T10	DT 725 728	all
+A10	Possible_error T10
+#10	AnnotatorNotes T10	DT PDT RB PRP
+T11	IN 870 876	inside
+A11	Possible_error T11
+#11	AnnotatorNotes T11	IN RB JJ NN
+T12	RB 886 892	itwith
+T13	RB 907 909	so
+A13	Possible_error T13
+#13	AnnotatorNotes T13	RB IN CC
+T14	VB 1045 1051	admire
+A14	Possible_error T14
+#14	AnnotatorNotes T14	VB VBP
+T15	JJ 1075 1079	18th
+T16	JJ 1084 1088	19th
+T17	NN 1104 1112	findthem
+A17	Possible_error T17
+#17	AnnotatorNotes T17	NN VBP VB JJ
+T18	NN 1242 1258	governmentshould
+T19	NNS 1388 1405	beautifultheatres
+T20	NN 1536 1546	facilityin
+A20	Possible_error T20
+#20	AnnotatorNotes T20	NN VB JJ RB VBP
+T21	JJ 1758 1766	spendall
+A21	Possible_error T21
+#21	AnnotatorNotes T21	JJ NN VB RB VBP
+A6	Spelling_error T6
+#6	AnnotatorNotes T6	more important
+A8	Spelling_error T8
+#8	AnnotatorNotes T8	enough money
+A12	Spelling_error T12
+#12	AnnotatorNotes T12	it with
+A15	Spelling_error T15
+#15	AnnotatorNotes T15	Th
+A16	Spelling_error T16
+#16	AnnotatorNotes T16	Th
+A17	Spelling_error T17
+#17	AnnotatorNotes T17	find them
+A18	Spelling_error T18
+#18	AnnotatorNotes T18	government should
+A19	Spelling_error T19
+#19	AnnotatorNotes T19	beautiful theatres
+A20	Spelling_error T20
+#20	AnnotatorNotes T20	facility in
+A21	Spelling_error T21
+#21	AnnotatorNotes T21	spend all

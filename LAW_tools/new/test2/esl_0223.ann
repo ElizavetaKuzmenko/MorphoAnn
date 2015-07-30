@@ -1,0 +1,75 @@
+T1	PRP_ 59 64	their
+A1	Possible_error T1
+#1	AnnotatorNotes T1	PRP_ PRP
+T2	VB 65 69	help
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VB NN VBP NNS
+T3	VBP 116 118	do
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBP VB
+T4	IN 356 360	that
+A4	Possible_error T4
+#4	AnnotatorNotes T4	IN WDT DT RB PRP WP
+T5	VB 379 382	fit
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VB NN VBP VBD VBN
+T6	IN 442 446	that
+A6	Possible_error T6
+#6	AnnotatorNotes T6	IN WDT DT RB PRP WP
+T7	IN 562 566	that
+A7	Possible_error T7
+#7	AnnotatorNotes T7	IN WDT DT RB PRP WP
+T8	VBP 705 707	do
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VBP VB
+T9	NN 788 792	hunt
+A9	Possible_error T9
+#9	AnnotatorNotes T9	NN VB VBP
+T10	VBG 856 861	being
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VBG NN JJ
+T11	IN 935 939	that
+A11	Possible_error T11
+#11	AnnotatorNotes T11	IN WDT DT RB PRP WP
+T12	RB 997 999	so
+A12	Possible_error T12
+#12	AnnotatorNotes T12	RB IN CC
+T13	IN 1038 1042	That
+A13	Possible_error T13
+#13	AnnotatorNotes T13	IN WDT DT RB PRP WP
+T14	POS 1043 1045	's
+A14	Possible_error T14
+#14	AnnotatorNotes T14	POS VBZ VBZ
+T15	NN 1046 1049	why
+A15	Possible_error T15
+#15	AnnotatorNotes T15	NN WRB
+T16	VB 1325 1330	agree
+A16	Possible_error T16
+#16	AnnotatorNotes T16	VB VBP
+T17	IN 1331 1335	that
+A17	Possible_error T17
+#17	AnnotatorNotes T17	IN WDT DT RB PRP WP
+T18	VBZ 1400 1405	needs
+A18	Possible_error T18
+#18	AnnotatorNotes T18	VBZ NNS
+T19	VBP 1427 1432	think
+A19	Possible_error T19
+#19	AnnotatorNotes T19	VBP VB NN
+T20	VBD 1471 1477	proved
+A20	Possible_error T20
+#20	AnnotatorNotes T20	VBD VBN
+T21	JJ 1578 1583	human
+A21	Possible_error T21
+#21	AnnotatorNotes T21	JJ NN
+T22	IN 1638 1642	that
+A22	Possible_error T22
+#22	AnnotatorNotes T22	IN WDT DT RB PRP WP
+T23	VBZ 1661 1665	does
+A23	Possible_error T23
+#23	AnnotatorNotes T23	VBZ NNS
+T24	NN 1747 1753	digest
+A24	Possible_error T24
+#24	AnnotatorNotes T24	NN VB VBP
+T25	JJ 1782 1787	human
+A25	Possible_error T25
+#25	AnnotatorNotes T25	JJ NN

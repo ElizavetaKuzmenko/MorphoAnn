@@ -1,0 +1,77 @@
+T1	DT 54 57	all
+A1	Possible_error T1
+#1	AnnotatorNotes T1	DT PDT RB PRP
+T2	VBG 125 144	reexaminedincluding
+T3	VB 263 271	consider
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VB VBP
+T4	NN 278 282	tobe
+T5	JJ 380 386	public
+A5	Possible_error T5
+#5	AnnotatorNotes T5	JJ NN
+T6	IN 406 408	as
+A6	Possible_error T6
+#6	AnnotatorNotes T6	IN RB
+T7	VBZ 409 417	affaires
+T8	RB 446 457	attractmuch
+A8	Possible_error T8
+#8	AnnotatorNotes T8	RB JJ
+T9	RB 709 714	isnot
+T10	VBD 772 778	turned
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VBD VBN
+T11	IN 801 805	that
+A11	Possible_error T11
+#11	AnnotatorNotes T11	IN WDT DT RB PRP WP
+T12	RB 853 861	thanthat
+T13	NN 999 1006	tomoney
+T14	VB 1024 1027	get
+A14	Possible_error T14
+#14	AnnotatorNotes T14	VB VBP
+T15	VBN 1137 1142	spent
+A15	Possible_error T15
+#15	AnnotatorNotes T15	VBN VBD
+T16	NN 1143 1150	onsport
+T17	IN 1240 1244	like
+A17	Possible_error T17
+#17	AnnotatorNotes T17	IN VB VBP
+T18	VBP 1248 1251	say
+A18	Possible_error T18
+#18	AnnotatorNotes T18	VBP VB NN
+T19	IN 1252 1256	that
+A19	Possible_error T19
+#19	AnnotatorNotes T19	IN WDT DT RB PRP WP
+T20	VB 1330 1334	find
+A20	Possible_error T20
+#20	AnnotatorNotes T20	VB VBP NN
+T21	JJ 1361 1371	apointless
+T22	IN 1431 1435	that
+A22	Possible_error T22
+#22	AnnotatorNotes T22	IN WDT DT RB PRP WP
+T23	VBN 1498 1510	wasdestroyed
+T24	JJ 1511 1515	long
+A24	Possible_error T24
+#24	AnnotatorNotes T24	JJ RB VB VBP
+T25	VBN 1531 1538	changed
+A25	Possible_error T25
+#25	AnnotatorNotes T25	VBN VBD
+A2	Spelling_error T2
+#2	AnnotatorNotes T2	reexamined including
+A4	Spelling_error T4
+#4	AnnotatorNotes T4	to be
+A7	Spelling_error T7
+#7	AnnotatorNotes T7	affair es
+A8	Spelling_error T8
+#8	AnnotatorNotes T8	attract much
+A9	Spelling_error T9
+#9	AnnotatorNotes T9	is not
+A12	Spelling_error T12
+#12	AnnotatorNotes T12	than that
+A13	Spelling_error T13
+#13	AnnotatorNotes T13	to money
+A16	Spelling_error T16
+#16	AnnotatorNotes T16	on sport
+A21	Spelling_error T21
+#21	AnnotatorNotes T21	pointless
+A23	Spelling_error T23
+#23	AnnotatorNotes T23	was destroyed

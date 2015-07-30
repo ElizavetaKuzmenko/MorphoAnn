@@ -1,0 +1,72 @@
+T1	DT 214 217	all
+A1	Possible_error T1
+#1	AnnotatorNotes T1	DT PDT RB PRP
+T2	NN 357 362	where
+A2	Possible_error T2
+#2	AnnotatorNotes T2	NN WRB
+T3	NN 623 626	how
+A3	Possible_error T3
+#3	AnnotatorNotes T3	NN WRB
+T4	VBN 746 751	spent
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBN VBD
+T5	VBZ 847 851	ends
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBZ NNS
+T6	VB 852 856	meet
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VB VBP NN
+T7	VBN 873 877	left
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VBN VBD NN RB
+T8	JJ 1151 1155	hard
+A8	Possible_error T8
+#8	AnnotatorNotes T8	JJ RB
+T9	VBD 1158 1165	starved
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBD VBN
+T10	IN 1291 1293	on
+A10	Possible_error T10
+#10	AnnotatorNotes T10	IN RP RB
+T11	NN 1297 1301	form
+A11	Possible_error T11
+#11	AnnotatorNotes T11	NN VB VBP
+T12	NN 1310 1323	multi-million
+T13	JJ 1360 1366	secret
+A13	Possible_error T13
+#13	AnnotatorNotes T13	JJ NN
+T14	IN 1424 1428	that
+A14	Possible_error T14
+#14	AnnotatorNotes T14	IN WDT DT RB PRP WP
+T15	JJ 1481 1489	straight
+A15	Possible_error T15
+#15	AnnotatorNotes T15	JJ RB NN
+T16	DT 1829 1832	all
+A16	Possible_error T16
+#16	AnnotatorNotes T16	DT PDT RB PRP
+T17	VB 1866 1872	invest
+A17	Possible_error T17
+#17	AnnotatorNotes T17	VB VBP
+T18	VB 2008 2012	know
+A18	Possible_error T18
+#18	AnnotatorNotes T18	VB VBP
+T19	NN 2013 2016	how
+A19	Possible_error T19
+#19	AnnotatorNotes T19	NN WRB
+T20	VBP 2255 2259	have
+A20	Possible_error T20
+#20	AnnotatorNotes T20	VBP VB JJ
+T21	NN 2427 2430	one
+A21	Possible_error T21
+#21	AnnotatorNotes T21	NN DT Z
+T22	IN 2560 2564	that
+A22	Possible_error T22
+#22	AnnotatorNotes T22	IN WDT DT RB PRP WP
+T23	NN 2577 2582	right
+A23	Possible_error T23
+#23	AnnotatorNotes T23	NN JJ RB VB VBP
+T24	NN 2710 2713	one
+A24	Possible_error T24
+#24	AnnotatorNotes T24	NN DT Z
+A12	Spelling_error T12
+#12	AnnotatorNotes T12	milt

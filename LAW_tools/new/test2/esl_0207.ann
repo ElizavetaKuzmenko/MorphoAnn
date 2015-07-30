@@ -1,0 +1,81 @@
+T1	VB 10 14	know
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB VBP
+T2	RB 137 146	thinkthat
+T3	VB 211 219	consider
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VB VBP
+T4	RB 280 288	fromthat
+T5	IN 370 374	that
+A5	Possible_error T5
+#5	AnnotatorNotes T5	IN WDT DT RB PRP WP
+T6	VB 451 460	cooperate
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VB VBP
+T7	RB 479 492	differentways
+T8	JJ 539 544	other
+A8	Possible_error T8
+#8	AnnotatorNotes T8	JJ NN
+T9	VB 627 631	take
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VB VBP NN
+T10	NN 632 640	cowsmilk
+T11	IN 682 689	because
+A11	Possible_error T11
+#11	AnnotatorNotes T11	IN RB
+T12	VB 707 711	take
+A12	Possible_error T12
+#12	AnnotatorNotes T12	VB VBP NN
+T13	NN 732 736	feed
+A13	Possible_error T13
+#13	AnnotatorNotes T13	NN VB VB VBP VBP VBD VBN
+T14	NN 774 784	andsafaris
+T15	JJR 913 927	themselvesmore
+T16	VB 1028 1032	make
+A16	Possible_error T16
+#16	AnnotatorNotes T16	VB VBP NN
+T17	NN 1060 1074	fromextinction
+T18	VB 1116 1123	receive
+A18	Possible_error T18
+#18	AnnotatorNotes T18	VB VBP
+T19	RB 1166 1170	back
+A19	Possible_error T19
+#19	AnnotatorNotes T19	RB RP NN VB VBP
+T20	NN 1234 1237	use
+A20	Possible_error T20
+#20	AnnotatorNotes T20	NN VB VBP
+T21	NN 1269 1272	use
+A21	Possible_error T21
+#21	AnnotatorNotes T21	NN VB VBP
+T22	NN 1281 1285	test
+A22	Possible_error T22
+#22	AnnotatorNotes T22	NN VB VBP
+T23	NN 1336 1348	greatexample
+T24	VBZ 1480 1487	thereis
+T25	VB 1766 1772	tomake
+T26	NN 1791 1797	animal
+A26	Possible_error T26
+#26	AnnotatorNotes T26	NN JJ
+T27	VBP 1825 1830	think
+A27	Possible_error T27
+#27	AnnotatorNotes T27	VBP VB NN
+A2	Spelling_error T2
+#2	AnnotatorNotes T2	think that
+A4	Spelling_error T4
+#4	AnnotatorNotes T4	from that
+A7	Spelling_error T7
+#7	AnnotatorNotes T7	different ways
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	cows milk
+A14	Spelling_error T14
+#14	AnnotatorNotes T14	and safaris
+A15	Spelling_error T15
+#15	AnnotatorNotes T15	themselves more
+A17	Spelling_error T17
+#17	AnnotatorNotes T17	from extinction
+A23	Spelling_error T23
+#23	AnnotatorNotes T23	great example
+A24	Spelling_error T24
+#24	AnnotatorNotes T24	there is
+A25	Spelling_error T25
+#25	AnnotatorNotes T25	to make

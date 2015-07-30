@@ -1,0 +1,36 @@
+T1	VB 40 46	invent
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB VBP
+T2	VB 148 152	give
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VB VBP
+T3	VBN 521 528	reached
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBN VBD
+T4	NN 680 686	notice
+A4	Possible_error T4
+#4	AnnotatorNotes T4	NN VBP VB
+T5	VBD 896 905	detonated
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBD VBN
+T6	VBN 936 943	reached
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VBN VBD
+T7	NN 1059 1064	where
+A7	Possible_error T7
+#7	AnnotatorNotes T7	NN WRB
+T8	VBN 1139 1146	reached
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VBN VBD
+T9	IN 1384 1386	as
+A9	Possible_error T9
+#9	AnnotatorNotes T9	IN RB
+T10	JJ 1426 1434	possible
+A10	Possible_error T10
+#10	AnnotatorNotes T10	JJ NN
+T11	NN 1471 1476	cause
+A11	Possible_error T11
+#11	AnnotatorNotes T11	NN VB VBP
+T12	NN 1506 1511	where
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NN WRB

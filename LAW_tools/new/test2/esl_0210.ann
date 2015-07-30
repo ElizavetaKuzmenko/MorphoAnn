@@ -1,0 +1,109 @@
+T1	NP 139 145	Thisis
+T2	NN 280 291	vacationand
+T3	IN 334 338	that
+A3	Possible_error T3
+#3	AnnotatorNotes T3	IN WDT DT RB PRP WP
+T4	RB 553 561	andwhile
+T5	VBD 696 710	thewell-earned
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBD VBN
+T6	RB 719 721	So
+A6	Possible_error T6
+#6	AnnotatorNotes T6	RB IN CC
+T7	IN 737 741	that
+A7	Possible_error T7
+#7	AnnotatorNotes T7	IN WDT DT RB PRP WP
+T8	NN 921 926	train
+A8	Possible_error T8
+#8	AnnotatorNotes T8	NN VB VBP
+T9	JJ 954 966	besuccessful
+T10	VBG 976 985	beginning
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VBG NN
+T11	VBG 1067 1075	training
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VBG NN
+T12	NNS 1093 1098	cases
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NNS VBZ
+T13	NNS 1099 1112	whensportsmen
+T14	NN 1239 1250	aboutDmitry
+T15	NP 1251 1259	Malyshko
+T16	NN 1270 1281	biathlonist
+T17	VBN 1362 1369	managed
+A17	Possible_error T17
+#17	AnnotatorNotes T17	VBN VBD
+T18	JJ 1386 1391	inthe
+A18	Possible_error T18
+#18	AnnotatorNotes T18	JJ VBP NN VB VBD RB JJR NNS VBN VBZ VBG JJS
+T19	NNS 1442 1454	biathlonists
+T20	DT 1505 1508	all
+A20	Possible_error T20
+#20	AnnotatorNotes T20	DT PDT RB PRP
+T21	JJ 1529 1538	hisstrong
+T22	MD 1539 1543	will
+A22	Possible_error T22
+#22	AnnotatorNotes T22	MD NN VB VBP
+T23	NN 1660 1665	right
+A23	Possible_error T23
+#23	AnnotatorNotes T23	NN JJ RB VB VBP
+T24	NN 1671 1681	wouldwaste
+T25	NN 1692 1696	ruin
+A25	Possible_error T25
+#25	AnnotatorNotes T25	NN VB VBP
+T26	JJ 1748 1754	future
+A26	Possible_error T26
+#26	AnnotatorNotes T26	JJ NN
+T27	NP 1815 1827	Butsportsmen
+T28	JJ 1882 1887	great
+A28	Possible_error T28
+#28	AnnotatorNotes T28	JJ NN
+T29	VBZ 1903 1907	aims
+A29	Possible_error T29
+#29	AnnotatorNotes T29	VBZ NNS
+T30	VB 1960 1970	toovercome
+T31	DT 1971 1974	all
+A31	Possible_error T31
+#31	AnnotatorNotes T31	DT PDT RB PRP
+T32	NN 1994 1998	gain
+A32	Possible_error T32
+#32	AnnotatorNotes T32	NN VB VBP
+T33	NN 2184 2193	chooseone
+T34	IN 2242 2246	that
+A34	Possible_error T34
+#34	AnnotatorNotes T34	IN WDT DT RB PRP WP
+T35	NN 2326 2337	theargument
+A1	Spelling_error T1
+#1	AnnotatorNotes T1	This is
+A2	Spelling_error T2
+#2	AnnotatorNotes T2	vacation and
+A4	Spelling_error T4
+#4	AnnotatorNotes T4	and while
+A5	Spelling_error T5
+#5	AnnotatorNotes T5	the well
+A9	Spelling_error T9
+#9	AnnotatorNotes T9	be successful
+A13	Spelling_error T13
+#13	AnnotatorNotes T13	when sportsmen
+A14	Spelling_error T14
+#14	AnnotatorNotes T14	optometry
+A15	Spelling_error T15
+#15	AnnotatorNotes T15	Mailshot
+A16	Spelling_error T16
+#16	AnnotatorNotes T16	biathlons
+A18	Spelling_error T18
+#18	AnnotatorNotes T18	in the
+A19	Spelling_error T19
+#19	AnnotatorNotes T19	balloonists
+A21	Spelling_error T21
+#21	AnnotatorNotes T21	his strong
+A24	Spelling_error T24
+#24	AnnotatorNotes T24	would waste
+A27	Spelling_error T27
+#27	AnnotatorNotes T27	But sportsmen
+A30	Spelling_error T30
+#30	AnnotatorNotes T30	to overcome
+A33	Spelling_error T33
+#33	AnnotatorNotes T33	choose one
+A35	Spelling_error T35
+#35	AnnotatorNotes T35	the argument

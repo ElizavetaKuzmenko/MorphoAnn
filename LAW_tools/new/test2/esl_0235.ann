@@ -1,0 +1,36 @@
+T1	VBN 7 12	faced
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VBN VBD
+T2	NNS 205 210	drops
+A2	Possible_error T2
+#2	AnnotatorNotes T2	NNS VBZ
+T3	VBN 423 428	spent
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBN VBD
+T4	VBN 513 518	spent
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBN VBD
+T5	VBN 551 556	spent
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBN VBD
+T6	NN 671 680	programme
+T7	NNS 879 883	data
+A7	Possible_error T7
+#7	AnnotatorNotes T7	NNS NNS NN
+T8	RB 942 946	down
+A8	Possible_error T8
+#8	AnnotatorNotes T8	RB RP IN NN VB VBP
+T9	DT 1019 1022	all
+A9	Possible_error T9
+#9	AnnotatorNotes T9	DT PDT RB PRP
+T10	VBN 1164 1171	reached
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VBN VBD
+T11	JJ 1184 1188	high
+A11	Possible_error T11
+#11	AnnotatorNotes T11	JJ RB NN
+T12	VBP 1502 1509	suspect
+A12	Possible_error T12
+#12	AnnotatorNotes T12	VBP VB NN JJ
+A6	Spelling_error T6
+#6	AnnotatorNotes T6	program me

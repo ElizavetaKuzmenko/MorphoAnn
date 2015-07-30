@@ -1,0 +1,51 @@
+T1	VB 56 63	provide
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB VBP
+T2	VB 107 114	suppose
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VB VBP
+T3	IN 174 178	that
+A3	Possible_error T3
+#3	AnnotatorNotes T3	IN WDT DT RB PRP WP
+T4	VB 179 183	look
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VB VBP NN
+T5	IN 277 281	that
+A5	Possible_error T5
+#5	AnnotatorNotes T5	IN WDT DT RB PRP WP
+T6	VBD 286 292	raised
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VBD VBN
+T7	IN 353 357	that
+A7	Possible_error T7
+#7	AnnotatorNotes T7	IN WDT DT RB PRP WP
+T8	NN 365 369	cost
+A8	Possible_error T8
+#8	AnnotatorNotes T8	NN VB VBD VBN VBP
+T9	VBG 422 430	building
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBG NN
+T10	NN 651 656	where
+A10	Possible_error T10
+#10	AnnotatorNotes T10	NN WRB
+T11	RB 691 695	much
+A11	Possible_error T11
+#11	AnnotatorNotes T11	RB JJ
+T12	JJ 706 714	possible
+A12	Possible_error T12
+#12	AnnotatorNotes T12	JJ NN
+T13	JJ 897 907	eco-minded
+T14	NN 1118 1130	microclimate
+T15	NN 1138 1142	cost
+A15	Possible_error T15
+#15	AnnotatorNotes T15	NN VB VBD VBN VBP
+T16	VB 1314 1319	allow
+A16	Possible_error T16
+#16	AnnotatorNotes T16	VB VBP
+T17	NN 1407 1416	construct
+A17	Possible_error T17
+#17	AnnotatorNotes T17	NN VB VBP
+A13	Spelling_error T13
+#13	AnnotatorNotes T13	Eco
+A14	Spelling_error T14
+#14	AnnotatorNotes T14	micro climate

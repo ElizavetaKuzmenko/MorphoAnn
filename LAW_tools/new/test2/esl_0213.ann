@@ -1,0 +1,59 @@
+T1	VB 50 57	provide
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB VBP
+T2	IN 161 165	that
+A2	Possible_error T2
+#2	AnnotatorNotes T2	IN WDT DT RB PRP WP
+T3	VB 166 170	look
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VB VBP NN
+T4	IN 214 218	that
+A4	Possible_error T4
+#4	AnnotatorNotes T4	IN WDT DT RB PRP WP
+T5	VBG 219 225	living
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBG NN
+T6	NN 317 334	outwardappearance
+T7	JJ 353 362	necessary
+A7	Possible_error T7
+#7	AnnotatorNotes T7	JJ NN
+T8	NNS 455 471	livingconditions
+T9	NN 561 568	delight
+A9	Possible_error T9
+#9	AnnotatorNotes T9	NN VB VBP
+T10	NN 658 672	buildingsmight
+T11	VB 807 814	rentand
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VB VBP NN
+T12	NN 900 905	where
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NN WRB
+T13	JJ 913 921	standard
+A13	Possible_error T13
+#13	AnnotatorNotes T13	JJ NN
+T14	NN 1049 1058	wellbeing
+T15	NN 1069 1072	how
+A15	Possible_error T15
+#15	AnnotatorNotes T15	NN WRB
+T16	NN 1078 1086	andlight
+T17	NN 1112 1115	how
+A17	Possible_error T17
+#17	AnnotatorNotes T17	NN WRB
+T18	VB 1127 1131	look
+A18	Possible_error T18
+#18	AnnotatorNotes T18	VB VBP NN
+T19	NN 1218 1226	anoption
+A6	Spelling_error T6
+#6	AnnotatorNotes T6	outward appearance
+A8	Spelling_error T8
+#8	AnnotatorNotes T8	living conditions
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	buildings might
+A11	Spelling_error T11
+#11	AnnotatorNotes T11	rent and
+A14	Spelling_error T14
+#14	AnnotatorNotes T14	well being
+A16	Spelling_error T16
+#16	AnnotatorNotes T16	and light
+A19	Spelling_error T19
+#19	AnnotatorNotes T19	an option

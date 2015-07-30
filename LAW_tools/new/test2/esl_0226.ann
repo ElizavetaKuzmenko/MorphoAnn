@@ -1,0 +1,39 @@
+T1	VBD 105 110	lived
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VBD VBN
+T2	DT 266 269	all
+A2	Possible_error T2
+#2	AnnotatorNotes T2	DT PDT RB PRP
+T3	NN 370 375	sport
+A3	Possible_error T3
+#3	AnnotatorNotes T3	NN VB VBP
+T4	VBP 554 558	need
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBP VB NN
+T5	VBG 602 610	training
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBG NN
+T6	NNS 620 630	equipments
+T7	VB 718 722	make
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VB VBP NN
+T8	VB 1016 1021	match
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VB NN VBP
+T9	NN 1136 1143	respect
+A9	Possible_error T9
+#9	AnnotatorNotes T9	NN VB VBP
+T10	VB 1163 1167	earn
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VB VBP
+T11	VB 1337 1340	buy
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VB VBP NN JJ
+T12	NN 1386 1392	defile
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NN VB VBP
+T13	JJ 1445 1450	whole
+A13	Possible_error T13
+#13	AnnotatorNotes T13	JJ NN
+A6	Spelling_error T6
+#6	AnnotatorNotes T6	equipment's

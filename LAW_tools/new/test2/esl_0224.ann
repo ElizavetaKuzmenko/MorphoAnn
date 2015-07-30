@@ -1,0 +1,72 @@
+T1	VB 168 174	prefer
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB VBP
+T2	VB 211 214	get
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VB VBP
+T3	VBZ 237 242	needs
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBZ NNS
+T4	VB 250 253	buy
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VB VBP NN JJ
+T5	IN 312 316	that
+A5	Possible_error T5
+#5	AnnotatorNotes T5	IN WDT DT RB PRP WP
+T6	NN 452 455	use
+A6	Possible_error T6
+#6	AnnotatorNotes T6	NN VB VBP
+T7	VB 479 486	provide
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VB VBP
+T8	VBN 543 547	used
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VBN VBD
+T9	IN 628 632	that
+A9	Possible_error T9
+#9	AnnotatorNotes T9	IN WDT DT RB PRP WP
+T10	VB 689 692	see
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VB VBP
+T11	VBZ 737 742	needs
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VBZ NNS
+T12	IN 894 901	whether
+A12	Possible_error T12
+#12	AnnotatorNotes T12	IN CC
+T13	VB 989 993	kill
+A13	Possible_error T13
+#13	AnnotatorNotes T13	VB NN VBP
+T14	VB 1007 1012	break
+A14	Possible_error T14
+#14	AnnotatorNotes T14	VB NN VBP
+T15	IN 1039 1043	That
+A15	Possible_error T15
+#15	AnnotatorNotes T15	IN WDT DT RB PRP WP
+T16	NN 1056 1059	why
+A16	Possible_error T16
+#16	AnnotatorNotes T16	NN WRB
+T17	VB 1131 1135	live
+A17	Possible_error T17
+#17	AnnotatorNotes T17	VB VBP JJ
+T18	IN 1333 1337	like
+A18	Possible_error T18
+#18	AnnotatorNotes T18	IN VB VBP
+T19	VBP 1341 1344	say
+A19	Possible_error T19
+#19	AnnotatorNotes T19	VBP VB NN
+T20	VBZ 1488 1493	needs
+A20	Possible_error T20
+#20	AnnotatorNotes T20	VBZ NNS
+T21	NN 1539 1542	use
+A21	Possible_error T21
+#21	AnnotatorNotes T21	NN VB VBP
+T22	VBD 1654 1659	lived
+A22	Possible_error T22
+#22	AnnotatorNotes T22	VBD VBN
+T23	IN 1754 1758	that
+A23	Possible_error T23
+#23	AnnotatorNotes T23	IN WDT DT RB PRP WP
+T24	NN 1810 1813	use
+A24	Possible_error T24
+#24	AnnotatorNotes T24	NN VB VBP

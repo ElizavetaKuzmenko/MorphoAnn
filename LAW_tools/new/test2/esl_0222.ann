@@ -1,0 +1,60 @@
+T1	IN 20 24	that
+A1	Possible_error T1
+#1	AnnotatorNotes T1	IN WDT DT RB PRP WP
+T2	NN 50 53	use
+A2	Possible_error T2
+#2	AnnotatorNotes T2	NN VB VBP
+T3	VB 174 179	agree
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VB VBP
+T4	VB 196 204	consider
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VB VBP
+T5	VBP 425 427	do
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBP VB
+T6	NN 478 481	use
+A6	Possible_error T6
+#6	AnnotatorNotes T6	NN VB VBP
+T7	VBD 602 608	helped
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VBD VBN VBP
+T8	NN 665 671	animal
+A8	Possible_error T8
+#8	AnnotatorNotes T8	NN JJ
+T9	VB 724 731	realize
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VB VBP
+T10	VB 878 884	admire
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VB VBP
+T11	MD 920 924	will
+A11	Possible_error T11
+#11	AnnotatorNotes T11	MD NN VB VBP
+T12	IN 1077 1081	like
+A12	Possible_error T12
+#12	AnnotatorNotes T12	IN VB VBP
+T13	VBP 1085 1088	say
+A13	Possible_error T13
+#13	AnnotatorNotes T13	VBP VB NN
+T14	IN 1089 1093	that
+A14	Possible_error T14
+#14	AnnotatorNotes T14	IN WDT DT RB PRP WP
+T15	VBZ 1193 1197	aims
+A15	Possible_error T15
+#15	AnnotatorNotes T15	VBZ NNS
+T16	VB 1293 1297	help
+A16	Possible_error T16
+#16	AnnotatorNotes T16	VB NN VBP NNS
+T17	RB 1482 1484	so
+A17	Possible_error T17
+#17	AnnotatorNotes T17	RB IN CC
+T18	VBP 1507 1509	do
+A18	Possible_error T18
+#18	AnnotatorNotes T18	VBP VB
+T19	NN 1535 1541	change
+A19	Possible_error T19
+#19	AnnotatorNotes T19	NN VB VBP
+T20	IN 1552 1556	that
+A20	Possible_error T20
+#20	AnnotatorNotes T20	IN WDT DT RB PRP WP

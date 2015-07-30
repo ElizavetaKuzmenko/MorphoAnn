@@ -1,0 +1,48 @@
+T1	IN 23 27	that
+A1	Possible_error T1
+#1	AnnotatorNotes T1	IN WDT DT RB PRP WP
+T2	VB 113 117	play
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VB NN VBP
+T3	NN 273 278	score
+A3	Possible_error T3
+#3	AnnotatorNotes T3	NN VBP VB
+T4	DT 330 333	all
+A4	Possible_error T4
+#4	AnnotatorNotes T4	DT PDT RB PRP
+T5	NN 408 412	rash
+A5	Possible_error T5
+#5	AnnotatorNotes T5	NN JJ
+T6	NNS 966 971	ruins
+A6	Possible_error T6
+#6	AnnotatorNotes T6	NNS VBZ
+T7	VBZ 986 991	hopes
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VBZ NNS
+T8	NN 1046 1054	increase
+A8	Possible_error T8
+#8	AnnotatorNotes T8	NN VB VBP
+T9	VBP 1094 1096	do
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBP VB
+T10	IN 1186 1190	that
+A10	Possible_error T10
+#10	AnnotatorNotes T10	IN WDT DT RB PRP WP
+T11	JJ 1294 1304	individual
+A11	Possible_error T11
+#11	AnnotatorNotes T11	JJ NN
+T12	NN 1392 1396	face
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NN VB VBP JJ
+T13	DT 1433 1435	no
+A13	Possible_error T13
+#13	AnnotatorNotes T13	DT RB
+T14	NNS 1526 1531	lives
+A14	Possible_error T14
+#14	AnnotatorNotes T14	NNS VBZ
+T15	NN 1620 1625	cause
+A15	Possible_error T15
+#15	AnnotatorNotes T15	NN VB VBP
+T16	NNS 1644 1649	ruins
+A16	Possible_error T16
+#16	AnnotatorNotes T16	NNS VBZ

@@ -1,0 +1,63 @@
+T1	VB 26 32	become
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB VBN VBP
+T2	NN 71 76	brave
+A2	Possible_error T2
+#2	AnnotatorNotes T2	NN JJ VB VBP
+T3	NN 180 184	risk
+A3	Possible_error T3
+#3	AnnotatorNotes T3	NN VB VBP
+T4	VB 217 220	put
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VB VBN VBD VBP
+T5	VB 322 328	belong
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VB VBP
+T6	VBP 461 466	think
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VBP VB NN
+T7	POS 589 591	's
+A7	Possible_error T7
+#7	AnnotatorNotes T7	POS VBZ VBZ
+T8	VBP 774 778	have
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VBP VB JJ
+T9	VBZ 787 791	aims
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBZ NNS
+T10	NP 913 928	Mark_Zuckerberg
+T11	VBD 933 939	risked
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VBD VBN
+T12	DT 1027 1030	all
+A12	Possible_error T12
+#12	AnnotatorNotes T12	DT PDT RB PRP
+T13	DT 1051 1054	all
+A13	Possible_error T13
+#13	AnnotatorNotes T13	DT PDT RB PRP
+T14	VB 1071 1077	devote
+A14	Possible_error T14
+#14	AnnotatorNotes T14	VB VBP
+T15	VB 1120 1126	become
+A15	Possible_error T15
+#15	AnnotatorNotes T15	VB VBN VBP
+T16	IN 1145 1152	Besides
+A16	Possible_error T16
+#16	AnnotatorNotes T16	IN RB
+T17	NN 1220 1226	damage
+A17	Possible_error T17
+#17	AnnotatorNotes T17	NN VB VBP
+T18	IN 1290 1294	that
+A18	Possible_error T18
+#18	AnnotatorNotes T18	IN WDT DT RB PRP WP
+T19	IN 1653 1657	like
+A19	Possible_error T19
+#19	AnnotatorNotes T19	IN VB VBP
+T20	VBP 1737 1739	do
+A20	Possible_error T20
+#20	AnnotatorNotes T20	VBP VB
+T21	VBZ 1755 1759	aims
+A21	Possible_error T21
+#21	AnnotatorNotes T21	VBZ NNS
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	Schoenberg

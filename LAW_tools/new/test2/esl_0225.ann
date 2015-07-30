@@ -1,0 +1,81 @@
+T1	IN 30 34	that
+A1	Possible_error T1
+#1	AnnotatorNotes T1	IN WDT DT RB PRP WP
+T2	NNS 256 263	reasons
+A2	Possible_error T2
+#2	AnnotatorNotes T2	NNS VBZ
+T3	NNS 292 302	sportstars
+T4	NN 322 334	advertisment
+T5	VBD 414 418	kept
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBD VBN
+T6	NN 610 617	support
+A6	Possible_error T6
+#6	AnnotatorNotes T6	NN VB VBP
+T7	VBD 670 680	advertised
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VBD VBN
+T8	NNS 761 771	sportstars
+T9	NN 791 797	matter
+A9	Possible_error T9
+#9	AnnotatorNotes T9	NN VB VBP
+T10	VB 912 916	help
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VB NN VBP NNS
+T11	NN 956 964	increase
+A11	Possible_error T11
+#11	AnnotatorNotes T11	NN VB VBP
+T12	NN 990 995	bribe
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NN VB VBP
+T13	NNS 1092 1101	struggles
+A13	Possible_error T13
+#13	AnnotatorNotes T13	NNS VBZ
+T14	JJ 1115 1118	top
+A14	Possible_error T14
+#14	AnnotatorNotes T14	JJ NN VB VBP
+T15	VBG 1137 1145	training
+A15	Possible_error T15
+#15	AnnotatorNotes T15	VBG NN
+T16	VB 1175 1179	lead
+A16	Possible_error T16
+#16	AnnotatorNotes T16	VB NN VBP VBN
+T17	JJ 1187 1190	top
+A17	Possible_error T17
+#17	AnnotatorNotes T17	JJ NN VB VBP
+T18	NNS 1281 1291	surrenders
+A18	Possible_error T18
+#18	AnnotatorNotes T18	NNS VBZ
+T19	VBG 1299 1307	training
+A19	Possible_error T19
+#19	AnnotatorNotes T19	VBG NN
+T20	VBG 1684 1695	Summarising
+T21	IN 1716 1720	like
+A21	Possible_error T21
+#21	AnnotatorNotes T21	IN VB VBP
+T22	NN 1788 1792	move
+A22	Possible_error T22
+#22	AnnotatorNotes T22	NN VB VBP
+T23	RB 1793 1797	away
+A23	Possible_error T23
+#23	AnnotatorNotes T23	RB RP
+T24	NN 1807 1811	core
+A24	Possible_error T24
+#24	AnnotatorNotes T24	NN JJ VB VBP
+T25	NN 1882 1893	compatition
+T26	VBD 1911 1916	moved
+A26	Possible_error T26
+#26	AnnotatorNotes T26	VBD VBN
+T27	JJ 1973 1984	compatitive
+A3	Spelling_error T3
+#3	AnnotatorNotes T3	sport stars
+A4	Spelling_error T4
+#4	AnnotatorNotes T4	advertisement
+A8	Spelling_error T8
+#8	AnnotatorNotes T8	sport stars
+A20	Spelling_error T20
+#20	AnnotatorNotes T20	Summarizing
+A25	Spelling_error T25
+#25	AnnotatorNotes T25	competition
+A27	Spelling_error T27
+#27	AnnotatorNotes T27	competitive

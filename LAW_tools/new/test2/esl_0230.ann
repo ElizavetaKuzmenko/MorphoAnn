@@ -1,0 +1,27 @@
+T1	NN 43 47	face
+A1	Possible_error T1
+#1	AnnotatorNotes T1	NN VB VBP JJ
+T2	VBZ 112 117	needs
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VBZ NNS
+T3	VBG 200 207	housing
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBG NN
+T4	VBG 379 386	housing
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBG NN
+T5	VBZ 452 457	needs
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBZ NNS
+T6	VBG 886 893	housing
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VBG NN
+T7	VBG 1020 1027	meaning
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VBG NN
+T8	VBD 1245 1256	compensated
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VBD VBN
+T9	NNS 1305 1310	draws
+A9	Possible_error T9
+#9	AnnotatorNotes T9	NNS VBZ

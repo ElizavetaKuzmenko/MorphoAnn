@@ -1,0 +1,63 @@
+T1	VBP 324 331	believe
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VBP VB
+T2	VBP 368 370	do
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VBP VB
+T3	VBZ 537 541	aims
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBZ NNS
+T4	NN 698 704	change
+A4	Possible_error T4
+#4	AnnotatorNotes T4	NN VB VBP
+T5	IN 705 707	as
+A5	Possible_error T5
+#5	AnnotatorNotes T5	IN RB
+T6	VB 767 771	take
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VB VBP NN
+T7	VB 992 997	learn
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VB VBP
+T8	VB 1074 1077	get
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VB VBP
+T9	VB 1085 1088	try
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VB VBP NN
+T10	VBP 1092 1099	predict
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VBP VB
+T11	VB 1257 1261	fail
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VB VBP
+T12	JJ 1313 1316	own
+A12	Possible_error T12
+#12	AnnotatorNotes T12	JJ VB VBP
+T13	RB 1629 1633	back
+A13	Possible_error T13
+#13	AnnotatorNotes T13	RB RP NN VB VBP
+T14	NNS 1740 1745	lives
+A14	Possible_error T14
+#14	AnnotatorNotes T14	NNS VBZ
+T15	VBP 2057 2059	do
+A15	Possible_error T15
+#15	AnnotatorNotes T15	VBP VB
+T16	JJR 2105 2111	better
+A16	Possible_error T16
+#16	AnnotatorNotes T16	JJR RBR JJ VB NN VBP
+T17	VBP 2140 2146	expect
+A17	Possible_error T17
+#17	AnnotatorNotes T17	VBP VB
+T18	NN 2289 2292	sum
+A18	Possible_error T18
+#18	AnnotatorNotes T18	NN VB VBP
+T19	IN 2306 2310	like
+A19	Possible_error T19
+#19	AnnotatorNotes T19	IN VB VBP
+T20	VBP 2314 2317	say
+A20	Possible_error T20
+#20	AnnotatorNotes T20	VBP VB NN
+T21	VBP 2340 2345	think
+A21	Possible_error T21
+#21	AnnotatorNotes T21	VBP VB NN

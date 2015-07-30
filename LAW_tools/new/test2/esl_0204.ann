@@ -1,0 +1,63 @@
+T1	VB 117 128	manufacture
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB NN VBP
+T2	VBD 138 147	alsochose
+T3	NNS 281 291	allspheres
+T4	NNS 560 570	reachedits
+T5	VB 706 709	put
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VB VBN VBD VBP
+T6	NN 710 718	ourworld
+T7	NN 845 854	influence
+A7	Possible_error T7
+#7	AnnotatorNotes T7	NN VB VBP
+T8	NN 855 867	thesituation
+T9	VBP 992 995	say
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBP VB NN
+T10	NN 999 1011	thesituation
+T11	VB 1087 1091	give
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VB VBP
+T12	NN 1140 1155	model'something
+T13	NN 1177 1182	shout
+A13	Possible_error T13
+#13	AnnotatorNotes T13	NN VBP VB
+T14	VBP 1250 1252	do
+A14	Possible_error T14
+#14	AnnotatorNotes T14	VBP VB
+T15	VBP 1271 1273	do
+A15	Possible_error T15
+#15	AnnotatorNotes T15	VBP VB
+T16	NN 1283 1293	theproblem
+T17	NN 1307 1311	work
+A17	Possible_error T17
+#17	AnnotatorNotes T17	NN VB VBP
+T18	DT 1341 1344	all
+A18	Possible_error T18
+#18	AnnotatorNotes T18	DT PDT RB PRP
+T19	VBP 1350 1354	need
+A19	Possible_error T19
+#19	AnnotatorNotes T19	VBP VB NN
+T20	NN 1422 1428	change
+A20	Possible_error T20
+#20	AnnotatorNotes T20	NN VB VBP
+T21	JJ 1477 1488	theunspoken
+A2	Spelling_error T2
+#2	AnnotatorNotes T2	also chose
+A3	Spelling_error T3
+#3	AnnotatorNotes T3	all spheres
+A4	Spelling_error T4
+#4	AnnotatorNotes T4	reach edits
+A6	Spelling_error T6
+#6	AnnotatorNotes T6	our world
+A8	Spelling_error T8
+#8	AnnotatorNotes T8	the situation
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	the situation
+A12	Spelling_error T12
+#12	AnnotatorNotes T12	meddlesome
+A16	Spelling_error T16
+#16	AnnotatorNotes T16	the problem
+A21	Spelling_error T21
+#21	AnnotatorNotes T21	the unspoken

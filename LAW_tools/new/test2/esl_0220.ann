@@ -1,0 +1,27 @@
+T1	NN 115 121	notice
+A1	Possible_error T1
+#1	AnnotatorNotes T1	NN VBP VB
+T2	NNS 661 665	data
+A2	Possible_error T2
+#2	AnnotatorNotes T2	NNS NNS NN
+T3	VBN 766 773	reached
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBN VBD
+T4	RB 913 917	down
+A4	Possible_error T4
+#4	AnnotatorNotes T4	RB RP IN NN VB VBP
+T5	VBN 972 979	reached
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBN VBD
+T6	NN 1115 1128	contradictory
+A6	Possible_error T6
+#6	AnnotatorNotes T6	NN JJ
+T7	VBP 1138 1141	say
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VBP VB NN
+T8	NNS 1229 1238	increases
+A8	Possible_error T8
+#8	AnnotatorNotes T8	NNS VBZ
+T9	VBD 1304 1310	caused
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBD VBN

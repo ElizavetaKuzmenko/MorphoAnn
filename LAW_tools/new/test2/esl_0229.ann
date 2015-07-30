@@ -1,0 +1,60 @@
+T1	IN 142 146	that
+A1	Possible_error T1
+#1	AnnotatorNotes T1	IN WDT DT RB PRP WP
+T2	RB 170 172	So
+A2	Possible_error T2
+#2	AnnotatorNotes T2	RB IN CC
+T3	VBG 233 240	housing
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBG NN
+T4	VBP 381 385	have
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBP VB JJ
+T5	VBP 421 425	have
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBP VB JJ
+T6	VBG 506 513	housing
+A6	Possible_error T6
+#6	AnnotatorNotes T6	VBG NN
+T7	IN 572 576	that
+A7	Possible_error T7
+#7	AnnotatorNotes T7	IN WDT DT RB PRP WP
+T8	IN 732 736	that
+A8	Possible_error T8
+#8	AnnotatorNotes T8	IN WDT DT RB PRP WP
+T9	VBD 784 792	suffered
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBD VBN
+T10	DT 840 843	all
+A10	Possible_error T10
+#10	AnnotatorNotes T10	DT PDT RB PRP
+T11	VB 880 884	make
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VB VBP NN
+T12	NN 1122 1127	blend
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NN VB VBP
+T13	NN 1225 1229	cost
+A13	Possible_error T13
+#13	AnnotatorNotes T13	NN VB VBD VBN VBP
+T14	IN 1319 1323	like
+A14	Possible_error T14
+#14	AnnotatorNotes T14	IN VB VBP
+T15	VBP 1327 1330	say
+A15	Possible_error T15
+#15	AnnotatorNotes T15	VBP VB NN
+T16	VBG 1377 1384	housing
+A16	Possible_error T16
+#16	AnnotatorNotes T16	VBG NN
+T17	VBD 1423 1427	kept
+A17	Possible_error T17
+#17	AnnotatorNotes T17	VBD VBN
+T18	EX 1521 1526	there
+A18	Possible_error T18
+#18	AnnotatorNotes T18	EX RB
+T19	RB 1529 1531	So
+A19	Possible_error T19
+#19	AnnotatorNotes T19	RB IN CC
+T20	VBG 1614 1621	housing
+A20	Possible_error T20
+#20	AnnotatorNotes T20	VBG NN

@@ -1,0 +1,69 @@
+T1	IN 11 15	that
+A1	Possible_error T1
+#1	AnnotatorNotes T1	IN WDT DT RB PRP WP
+T2	JJ 140 151	asuccessful
+T3	VB 209 217	consider
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VB VBP
+T4	VBG 255 264	beginning
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBG NN
+T5	NP 394 398	Itis
+T6	NN 409 413	move
+A6	Possible_error T6
+#6	AnnotatorNotes T6	NN VB VBP
+T7	NN 463 467	fugu
+T8	VBP 484 489	argue
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VBP VB
+T9	IN 490 494	that
+A9	Possible_error T9
+#9	AnnotatorNotes T9	IN WDT DT RB PRP WP
+T10	JJ 525 540	eatingpoisonous
+T11	NN 587 590	one
+A11	Possible_error T11
+#11	AnnotatorNotes T11	NN DT Z
+T12	RB 669 678	besomehow
+T13	JJ 798 819	practicallyimpossible
+T14	NN 823 828	cheat
+A14	Possible_error T14
+#14	AnnotatorNotes T14	NN VB VBP
+T15	RB 848 850	so
+A15	Possible_error T15
+#15	AnnotatorNotes T15	RB IN CC
+T16	VBG 950 959	agambling
+T17	RB 1091 1098	notonly
+T18	NN 1322 1332	holidaysor
+T19	VBP 1405 1410	think
+A19	Possible_error T19
+#19	AnnotatorNotes T19	VBP VB NN
+T20	IN 1411 1415	over
+A20	Possible_error T20
+#20	AnnotatorNotes T20	IN RP RB
+T21	JJ 1457 1470	indispensible
+T22	NN 1471 1476	butit
+T23	NNS 1585 1595	knowledges
+A2	Spelling_error T2
+#2	AnnotatorNotes T2	successful
+A5	Spelling_error T5
+#5	AnnotatorNotes T5	It is
+A7	Spelling_error T7
+#7	AnnotatorNotes T7	fugue
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	eating poisonous
+A12	Spelling_error T12
+#12	AnnotatorNotes T12	be somehow
+A13	Spelling_error T13
+#13	AnnotatorNotes T13	practically impossible
+A16	Spelling_error T16
+#16	AnnotatorNotes T16	gambling
+A17	Spelling_error T17
+#17	AnnotatorNotes T17	not only
+A18	Spelling_error T18
+#18	AnnotatorNotes T18	holidays or
+A21	Spelling_error T21
+#21	AnnotatorNotes T21	indispensable
+A22	Spelling_error T22
+#22	AnnotatorNotes T22	bu tit
+A23	Spelling_error T23
+#23	AnnotatorNotes T23	know ledges

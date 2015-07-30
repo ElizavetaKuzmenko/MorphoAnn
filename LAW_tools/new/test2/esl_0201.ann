@@ -1,0 +1,46 @@
+T1	VBD 97 105	received
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VBD VBN
+T2	NN 141 150	thenumber
+T3	VBG 258 267	beginning
+A3	Possible_error T3
+#3	AnnotatorNotes T3	VBG NN
+T4	VBN 316 324	produced
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBN VBD
+T5	VBD 325 334	accounted
+A5	Possible_error T5
+#5	AnnotatorNotes T5	VBD VBN
+T6	NN 365 369	show
+A6	Possible_error T6
+#6	AnnotatorNotes T6	NN VB VBP
+T7	NN 381 398	betweeninvestment
+T8	VBN 466 470	left
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VBN VBD NN RB
+T9	NN 525 530	waste
+A9	Possible_error T9
+#9	AnnotatorNotes T9	NN VB VBP
+T10	VBN 531 541	isrecycled
+T11	VBN 672 688	producingreached
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VBN VBD
+T12	VBD 757 768	experienced
+A12	Possible_error T12
+#12	AnnotatorNotes T12	VBD VBN
+T13	NN 837 851	increasingfrom
+A13	Possible_error T13
+#13	AnnotatorNotes T13	NN JJ VB RB
+T14	VBD 964 970	raised
+A14	Possible_error T14
+#14	AnnotatorNotes T14	VBD VBN
+A2	Spelling_error T2
+#2	AnnotatorNotes T2	the number
+A7	Spelling_error T7
+#7	AnnotatorNotes T7	between investment
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	is recycled
+A11	Spelling_error T11
+#11	AnnotatorNotes T11	producing reached
+A13	Spelling_error T13
+#13	AnnotatorNotes T13	increasing from

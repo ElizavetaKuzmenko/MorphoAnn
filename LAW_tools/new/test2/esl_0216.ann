@@ -1,0 +1,39 @@
+T1	NN 142 147	nowit
+T2	VBN 148 155	reached
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VBN VBD
+T3	JJ 286 291	wecan
+T4	NN 391 396	chart
+A4	Possible_error T4
+#4	AnnotatorNotes T4	NN VBP VB
+T5	JJ 431 437	andthe
+T6	NN 573 584	thisprocess
+T7	VBP 593 597	have
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VBP VB JJ
+T8	VBP 652 656	have
+A8	Possible_error T8
+#8	AnnotatorNotes T8	VBP VB JJ
+T9	VBN 698 707	increased
+A9	Possible_error T9
+#9	AnnotatorNotes T9	VBN VBD
+T10	RB 856 862	inthat
+T11	NN 1000 1007	inwaste
+T12	NNS 1139 1153	wasteincreases
+T13	VBN 1274 1291	areinterconnected
+A1	Spelling_error T1
+#1	AnnotatorNotes T1	no wit
+A3	Spelling_error T3
+#3	AnnotatorNotes T3	we can
+A5	Spelling_error T5
+#5	AnnotatorNotes T5	and the
+A6	Spelling_error T6
+#6	AnnotatorNotes T6	this process
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	in that
+A11	Spelling_error T11
+#11	AnnotatorNotes T11	in waste
+A12	Spelling_error T12
+#12	AnnotatorNotes T12	waste increases
+A13	Spelling_error T13
+#13	AnnotatorNotes T13	are interconnected

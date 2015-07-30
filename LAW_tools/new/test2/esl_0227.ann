@@ -1,0 +1,87 @@
+T1	VB 149 153	play
+A1	Possible_error T1
+#1	AnnotatorNotes T1	VB NN VBP
+T2	VBZ 334 339	means
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VBZ NNS
+T3	IN 356 360	that
+A3	Possible_error T3
+#3	AnnotatorNotes T3	IN WDT DT RB PRP WP
+T4	VBZ 442 449	matches
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBZ NNS
+T5	NP 466 479	Italian_Serie
+T6	NN 571 576	sprit
+T7	NN 616 623	neglect
+A7	Possible_error T7
+#7	AnnotatorNotes T7	NN VB VBP
+T8	IN 789 793	like
+A8	Possible_error T8
+#8	AnnotatorNotes T8	IN VB VBP
+T9	NN 839 844	claim
+A9	Possible_error T9
+#9	AnnotatorNotes T9	NN VBP VB
+T10	IN 1018 1022	that
+A10	Possible_error T10
+#10	AnnotatorNotes T10	IN WDT DT RB PRP WP
+T11	NN 1036 1040	deal
+A11	Possible_error T11
+#11	AnnotatorNotes T11	NN VB VBP
+T12	NN 1064 1068	risk
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NN VB VBP
+T13	VB 1156 1163	receive
+A13	Possible_error T13
+#13	AnnotatorNotes T13	VB VBP
+T14	IN 1226 1230	that
+A14	Possible_error T14
+#14	AnnotatorNotes T14	IN WDT DT RB PRP WP
+T15	VB 1292 1300	consider
+A15	Possible_error T15
+#15	AnnotatorNotes T15	VB VBP
+T16	VBP 1337 1339	do
+A16	Possible_error T16
+#16	AnnotatorNotes T16	VBP VB
+T17	VBP 1357 1359	do
+A17	Possible_error T17
+#17	AnnotatorNotes T17	VBP VB
+T18	VBD 1396 1402	raised
+A18	Possible_error T18
+#18	AnnotatorNotes T18	VBD VBN
+T19	VBG 1410 1419	beginning
+A19	Possible_error T19
+#19	AnnotatorNotes T19	VBG NN
+T20	IN 1427 1431	like
+A20	Possible_error T20
+#20	AnnotatorNotes T20	IN VB VBP
+T21	VBP 1435 1438	say
+A21	Possible_error T21
+#21	AnnotatorNotes T21	VBP VB NN
+T22	IN 1439 1443	that
+A22	Possible_error T22
+#22	AnnotatorNotes T22	IN WDT DT RB PRP WP
+T23	JJ 1457 1461	20th
+T24	JJ 1477 1481	19th
+T25	VB 1552 1556	earn
+A25	Possible_error T25
+#25	AnnotatorNotes T25	VB VBP
+T26	VB 1655 1659	come
+A26	Possible_error T26
+#26	AnnotatorNotes T26	VB VBN VBP
+T27	VB 1738 1742	mean
+A27	Possible_error T27
+#27	AnnotatorNotes T27	VB JJ VBP NN
+T28	VB 1763 1767	mean
+A28	Possible_error T28
+#28	AnnotatorNotes T28	VB JJ VBP NN
+T29	VBD 1850 1855	lived
+A29	Possible_error T29
+#29	AnnotatorNotes T29	VBD VBN
+A5	Spelling_error T5
+#5	AnnotatorNotes T5	Sere
+A6	Spelling_error T6
+#6	AnnotatorNotes T6	Sprite
+A23	Spelling_error T23
+#23	AnnotatorNotes T23	Th
+A24	Spelling_error T24
+#24	AnnotatorNotes T24	Th

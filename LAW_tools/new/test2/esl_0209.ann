@@ -1,0 +1,135 @@
+T1	NN 50 56	animal
+A1	Possible_error T1
+#1	AnnotatorNotes T1	NN JJ
+T2	DT 136 139	all
+A2	Possible_error T2
+#2	AnnotatorNotes T2	DT PDT RB PRP
+T3	NN 226 243	oppressedminority
+T4	VBZ 289 294	needs
+A4	Possible_error T4
+#4	AnnotatorNotes T4	VBZ NNS
+T5	NN 375 380	right
+A5	Possible_error T5
+#5	AnnotatorNotes T5	NN JJ RB VB VBP
+T6	NN 429 435	animal
+A6	Possible_error T6
+#6	AnnotatorNotes T6	NN JJ
+T7	VB 531 540	topromote
+T8	NN 574 577	use
+A8	Possible_error T8
+#8	AnnotatorNotes T8	NN VB VBP
+T9	VBZ 785 796	andsparrows
+T10	VBN 847 854	damaged
+A10	Possible_error T10
+#10	AnnotatorNotes T10	VBN VBD
+T11	VB 927 940	toproliferate
+A11	Possible_error T11
+#11	AnnotatorNotes T11	VB JJ VBP NN
+T12	NN 950 953	use
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NN VB VBP
+T13	NN 991 997	animal
+A13	Possible_error T13
+#13	AnnotatorNotes T13	NN JJ
+T14	NN 1049 1055	Animal
+A14	Possible_error T14
+#14	AnnotatorNotes T14	NN JJ
+T15	RB 1084 1095	peopledon't
+T16	NN 1170 1176	animal
+A16	Possible_error T16
+#16	AnnotatorNotes T16	NN JJ
+T17	NNS 1231 1242	ofcosmetics
+T18	VBP 1299 1302	say
+A18	Possible_error T18
+#18	AnnotatorNotes T18	VBP VB NN
+T19	IN 1303 1307	that
+A19	Possible_error T19
+#19	AnnotatorNotes T19	IN WDT DT RB PRP WP
+T20	NN 1418 1436	obviousapplication
+T21	IN 1551 1555	That
+A21	Possible_error T21
+#21	AnnotatorNotes T21	IN WDT DT RB PRP WP
+T22	JJ 1565 1570	tothe
+A22	Possible_error T22
+#22	AnnotatorNotes T22	JJ VBP NN VB VBD RB JJR NNS VBN VBZ VBG JJS
+T23	VB 1629 1633	turn
+A23	Possible_error T23
+#23	AnnotatorNotes T23	VB NN VBP
+T24	VBP 1716 1720	have
+A24	Possible_error T24
+#24	AnnotatorNotes T24	VBP VB JJ
+T25	VBZ 1765 1771	bodyis
+T26	IN 1799 1803	that
+A26	Possible_error T26
+#26	AnnotatorNotes T26	IN WDT DT RB PRP WP
+T27	VBN 1910 1923	areconsidered
+T28	NNS 2054 2065	ofcenturies
+T29	IN 2068 2072	that
+A29	Possible_error T29
+#29	AnnotatorNotes T29	IN WDT DT RB PRP WP
+T30	JJ 2125 2129	free
+A30	Possible_error T30
+#30	AnnotatorNotes T30	JJ VB RB VBP
+T31	DT 2130 2133	all
+A31	Possible_error T31
+#31	AnnotatorNotes T31	DT PDT RB PRP
+T32	VB 2201 2208	wouldbe
+T33	NN 2264 2270	spread
+A33	Possible_error T33
+#33	AnnotatorNotes T33	NN VBN VB VBD VBP
+T34	IN 2297 2301	that
+A34	Possible_error T34
+#34	AnnotatorNotes T34	IN WDT DT RB PRP WP
+T35	POS 2302 2304	's
+A35	Possible_error T35
+#35	AnnotatorNotes T35	POS VBZ VBZ
+T36	NN 2305 2308	why
+A36	Possible_error T36
+#36	AnnotatorNotes T36	NN WRB
+T37	NNS 2344 2351	species
+A37	Possible_error T37
+#37	AnnotatorNotes T37	NNS NN
+T38	VBP 2405 2409	have
+A38	Possible_error T38
+#38	AnnotatorNotes T38	VBP VB JJ
+T39	POS 2434 2436	's
+A39	Possible_error T39
+#39	AnnotatorNotes T39	POS VBZ VBZ
+T40	VBN 2494 2503	havetamed
+A40	Possible_error T40
+#40	AnnotatorNotes T40	VBN VBD JJ
+T41	IN 2508 2512	That
+A41	Possible_error T41
+#41	AnnotatorNotes T41	IN WDT DT RB PRP WP
+T42	NN 2623 2630	benefit
+A42	Possible_error T42
+#42	AnnotatorNotes T42	NN VB VBP
+T43	NN 2641 2649	otherand
+A3	Spelling_error T3
+#3	AnnotatorNotes T3	oppressed minority
+A7	Spelling_error T7
+#7	AnnotatorNotes T7	to promote
+A9	Spelling_error T9
+#9	AnnotatorNotes T9	and sparrows
+A11	Spelling_error T11
+#11	AnnotatorNotes T11	to proliferate
+A15	Spelling_error T15
+#15	AnnotatorNotes T15	people don't
+A17	Spelling_error T17
+#17	AnnotatorNotes T17	of cosmetics
+A20	Spelling_error T20
+#20	AnnotatorNotes T20	obvious application
+A22	Spelling_error T22
+#22	AnnotatorNotes T22	tithe
+A25	Spelling_error T25
+#25	AnnotatorNotes T25	body is
+A27	Spelling_error T27
+#27	AnnotatorNotes T27	are considered
+A28	Spelling_error T28
+#28	AnnotatorNotes T28	of centuries
+A32	Spelling_error T32
+#32	AnnotatorNotes T32	would be
+A40	Spelling_error T40
+#40	AnnotatorNotes T40	have tamed
+A43	Spelling_error T43
+#43	AnnotatorNotes T43	other and

@@ -1,0 +1,39 @@
+T1	NN 132 147	industrialwaste
+T2	VBN 274 282	produced
+A2	Possible_error T2
+#2	AnnotatorNotes T2	VBN VBD
+T3	JJ 283 292	byBritish
+T4	IN 365 369	That
+A4	Possible_error T4
+#4	AnnotatorNotes T4	IN WDT DT RB PRP WP
+T5	NN 424 437	wastedisposal
+T6	JJ 514 519	total
+A6	Possible_error T6
+#6	AnnotatorNotes T6	JJ NN VB VBP
+T7	VBD 546 554	received
+A7	Possible_error T7
+#7	AnnotatorNotes T7	VBD VBN
+T8	NNS 569 582	localcouncils
+T9	JJ 640 647	average
+A9	Possible_error T9
+#9	AnnotatorNotes T9	JJ NN VB VBP
+T10	JJ 717 722	inthe
+T11	IN 848 852	That
+A11	Possible_error T11
+#11	AnnotatorNotes T11	IN WDT DT RB PRP WP
+T12	JJ 859 866	thatthe
+T13	NN 1002 1016	theenvironment
+A1	Spelling_error T1
+#1	AnnotatorNotes T1	industrial waste
+A3	Spelling_error T3
+#3	AnnotatorNotes T3	by British
+A5	Spelling_error T5
+#5	AnnotatorNotes T5	waste disposal
+A8	Spelling_error T8
+#8	AnnotatorNotes T8	local councils
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	in the
+A12	Spelling_error T12
+#12	AnnotatorNotes T12	that the
+A13	Spelling_error T13
+#13	AnnotatorNotes T13	the environment

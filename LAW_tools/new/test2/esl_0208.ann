@@ -1,0 +1,132 @@
+T1	IN 18 22	that
+A1	Possible_error T1
+#1	AnnotatorNotes T1	IN WDT DT RB PRP WP
+T2	RB 102 116	protectedSince
+T3	JJ 132 139	sapiens
+T4	IN 149 153	over
+A4	Possible_error T4
+#4	AnnotatorNotes T4	IN RP RB
+T5	VBN 247 256	wasmarked
+T6	JJ 302 305	top
+A6	Possible_error T6
+#6	AnnotatorNotes T6	JJ NN VB VBP
+T7	IN 332 336	that
+A7	Possible_error T7
+#7	AnnotatorNotes T7	IN WDT DT RB PRP WP
+T8	JJ 368 372	tame
+A8	Possible_error T8
+#8	AnnotatorNotes T8	JJ VBP VB
+T9	NN 385 388	use
+A9	Possible_error T9
+#9	AnnotatorNotes T9	NN VB VBP
+T10	NN 389 396	themfor
+A10	Possible_error T10
+#10	AnnotatorNotes T10	NN JJ VB RB VBP NNS JJR VBD VBZ VBG VBN JJS
+T11	JJ 530 538	andharsh
+T12	NN 594 598	bear
+A12	Possible_error T12
+#12	AnnotatorNotes T12	NN JJ VB VBP
+T13	NN 602 606	mind
+A13	Possible_error T13
+#13	AnnotatorNotes T13	NN VB VBP
+T14	NP 630 656	Antoine_de_Saint-Exupéry's
+T15	JJ 695 712	becomeresponsible
+T16	VBD 743 748	tamed
+A16	Possible_error T16
+#16	AnnotatorNotes T16	VBD VBN
+T17	VB 907 914	produce
+A17	Possible_error T17
+#17	AnnotatorNotes T17	VB VBP NN
+T18	IN 1049 1053	that
+A18	Possible_error T18
+#18	AnnotatorNotes T18	IN WDT DT RB PRP WP
+T19	VBD 1054 1063	isobliged
+T20	VBP 1067 1071	have
+A20	Possible_error T20
+#20	AnnotatorNotes T20	VBP VB JJ
+T21	IN 1118 1122	that
+A21	Possible_error T21
+#21	AnnotatorNotes T21	IN WDT DT RB PRP WP
+T22	NN 1185 1203	followingstatement
+T23	VBP 1210 1214	have
+A23	Possible_error T23
+#23	AnnotatorNotes T23	VBP VB JJ
+T24	VBD 1215 1222	sounded
+A24	Possible_error T24
+#24	AnnotatorNotes T24	VBD VBN
+T25	VBP 1274 1278	have
+A25	Possible_error T25
+#25	AnnotatorNotes T25	VBP VB JJ
+T26	VBD 1279 1287	composed
+A26	Possible_error T26
+#26	AnnotatorNotes T26	VBD VBN
+T27	RB 1336 1341	donot
+T28	JJ 1475 1488	viewpointsuch
+T29	VBD 1517 1528	exaggerated
+A29	Possible_error T29
+#29	AnnotatorNotes T29	VBD VBN
+T30	NN 1585 1590	where
+A30	Possible_error T30
+#30	AnnotatorNotes T30	NN WRB
+T31	VBZ 1714 1722	orfishes
+A31	Possible_error T31
+#31	AnnotatorNotes T31	VBZ NNS
+T32	NNS 1858 1866	theyears
+T33	VBP 1931 1935	have
+A33	Possible_error T33
+#33	AnnotatorNotes T33	VBP VB JJ
+T34	NN 2002 2012	ofmorality
+T35	VBD 2046 2049	got
+A35	Possible_error T35
+#35	AnnotatorNotes T35	VBD VBN VBP VB
+T36	VBN 2157 2167	bereplaced
+T37	IN 2243 2247	like
+A37	Possible_error T37
+#37	AnnotatorNotes T37	IN VB VBP
+T38	VBP 2251 2256	argue
+A38	Possible_error T38
+#38	AnnotatorNotes T38	VBP VB
+T39	NN 2279 2285	animal
+A39	Possible_error T39
+#39	AnnotatorNotes T39	NN JJ
+T40	NN 2361 2378	thefirst-priority
+A40	Possible_error T40
+#40	AnnotatorNotes T40	NN JJ
+T41	NN 2504 2513	andshould
+T42	VBD 2517 2525	isolated
+A42	Possible_error T42
+#42	AnnotatorNotes T42	VBD VBN
+A2	Spelling_error T2
+#2	AnnotatorNotes T2	protected Since
+A3	Spelling_error T3
+#3	AnnotatorNotes T3	spines
+A5	Spelling_error T5
+#5	AnnotatorNotes T5	was marked
+A10	Spelling_error T10
+#10	AnnotatorNotes T10	them for
+A11	Spelling_error T11
+#11	AnnotatorNotes T11	and harsh
+A14	Spelling_error T14
+#14	AnnotatorNotes T14	DE
+A15	Spelling_error T15
+#15	AnnotatorNotes T15	become responsible
+A19	Spelling_error T19
+#19	AnnotatorNotes T19	is obliged
+A22	Spelling_error T22
+#22	AnnotatorNotes T22	following statement
+A27	Spelling_error T27
+#27	AnnotatorNotes T27	do not
+A28	Spelling_error T28
+#28	AnnotatorNotes T28	viewpoint such
+A31	Spelling_error T31
+#31	AnnotatorNotes T31	or fishes
+A32	Spelling_error T32
+#32	AnnotatorNotes T32	the years
+A34	Spelling_error T34
+#34	AnnotatorNotes T34	of morality
+A36	Spelling_error T36
+#36	AnnotatorNotes T36	be replaced
+A40	Spelling_error T40
+#40	AnnotatorNotes T40	the first
+A41	Spelling_error T41
+#41	AnnotatorNotes T41	and should
